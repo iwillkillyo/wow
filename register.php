@@ -77,7 +77,7 @@
 					}
 					
 				} else {
-					$passwordMismatch = 0;
+					$passwordMatch = 0;
 				}
 				
 				// Email check
